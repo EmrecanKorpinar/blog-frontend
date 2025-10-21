@@ -67,14 +67,10 @@ npm run preview
 - Lucide React (Icons)
 - PostCSS & Autoprefixer
 
-## 📄 Lisans
-
-Bu proje Fiverr portföy amaçlı oluşturulmuştur.
 
 ## 👨‍💻 Geliştirici
 
+Emrecan Körpınar
 Modern, profesyonel ve responsive web tasarımları için iletişime geçin!
 
 ---
-
-Made with ❤️ for Fiverr Portfolio
